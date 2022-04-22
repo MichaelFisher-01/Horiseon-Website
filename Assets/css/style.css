@@ -1,0 +1,140 @@
+/* The website should have a blue and white color scheme.
+Horiseon logo should seperate the SEO in grey. 
+Need to use all the images provided throughout the site. */
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #d9dcd6;
+}
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+p {
+    font-size: 16px;
+}
+
+.navBar {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+
+.navBar h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+/* applying a different color for the SEO in Horiseon */
+.navBar h1 .seo {
+    color: #d9dcd6;
+}
+
+.navBar div {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 25px;
+}
+
+.navBar ul li {
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 25px;
+}
+/* Easy way to place the team image on the site */
+.teamImage {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* Adjusts where the image sits in the content blocks */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* Benefits side bar styling */
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
+.benefit-style{
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-style h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit-style img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* Styling for the content blocks */
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+/* Styling for the Content blocks that explain SEO ORM and SMM */
+.contentBlocks {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.contentBlocks img{
+    max-height: 200px;
+}
+
+.contentBlocks h2{
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Styling for bottom of page info */
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.footer h2 {
+    font-size: 20px;
+}
