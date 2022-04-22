@@ -26,17 +26,17 @@ SMM - Social Media Marketing
 ## Usage
 
 The user and navigate this website by clicking any of the navigation bar titles.
-    ```md
+
     ![alt text](assets/images/navbar.png)
-    ```
+
 The website will then snap the the matching content block.
-    ```md
+
     ![alt text](assets/images/contentblock.png)
-    ```
+
 The full site should look like:
-    ```md
+
     ![alt text](assets/images/screenshot.png)
-    ```
+
 ## Credits
 
 Whoever made the original site before we cleaned up the code.
