@@ -1,3 +1,5 @@
+Description: Cleaning up the pre-made Horiseon website. 
+
 Acronyms Used:
 
 SEO - Search Engine Omptimization
