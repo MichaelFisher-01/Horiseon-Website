@@ -27,20 +27,21 @@ SMM - Social Media Marketing
 
 The user and navigate this website by clicking any of the navigation bar titles.
 
-    ![alt text](assets/images/navbar.png)
+    ![NavBar Image](./assets/images/navbar.png)
 
 The website will then snap the the matching content block.
 
-    ![alt text](assets/images/contentblock.png)
+    ![Content Block](./assets/images/contentblock.png)
 
 The full site should look like:
 
-    ![alt text](assets/images/screenshot.png)
+    ![Full Site](./assets/images/screenshot.png)
 
 ## Credits
 
 Whoever made the original site before we cleaned up the code.
 Danny Oka
+W3schools.com 
 
 ## License
 
